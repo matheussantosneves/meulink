@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(250, 96, 191);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+
+
+}
+
+container{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+}
+
+.imagem-perfil{
+
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+h1 {
+font-size: 24px;
+margin: 15px;
+
+
+}
+
+a{
+display: block;
+background-color: rgb(255, 144, 209);
+margin: 10px;
+padding: 15px;
+border-radius: 25px;
+text-decoration: none;
+color:white;
+font-size: 20px;
+
+}
+
+footer{
+margin-top: 40px;
+font-size: 14px;
+color:rgb(255, 251, 251)
+
+}
